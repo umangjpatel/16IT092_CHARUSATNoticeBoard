@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CHARUSAT NoticeBoard</string>
+    <string name="error_fetching_data">Error fetching data</string>
+    <string name="retry_action">Refresh</string>
+    <string name="enter_message_label">Enter Message</string>
+    <string name="send_label">Send</string>
+    <string name="search_notices">Search notices</string>
+    <string name="refresh_label">Refresh</string>
+</resources>

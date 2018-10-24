@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search_notices"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search_notices"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:visible="false"
+        android:title="@string/refresh_label"
+        app:showAsAction="never" />
+
+</menu>
